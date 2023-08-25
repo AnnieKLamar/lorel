@@ -10,7 +10,7 @@ description: >
 baseurl: "/lorel_website/"
 url: "https://AnnieKLamar.github.io" 
 # baseurl: ""
-# url: "https://AnnieKLamar.github.io/lorel_website" 
+# url: "https://AnnieKLamar.github.io/lorel" 
 #twitter_username: 
 github_username: AnnieKLamar
 images_dir: "/images/"
